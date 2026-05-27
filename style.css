@@ -516,3 +516,44 @@ section{
     } 
 .Hobbies-card h3{ font-size: 3rem; 
 }
+
+/* Contact Section */
+
+.contact{
+    background-color: #101010;
+    color: white;
+    text-align: center;
+    padding: 80px 20px;
+}
+
+/* Heading */
+
+.heading{
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.heading span{
+    color: #ea580c;
+}
+
+/* Paragraph */
+
+.contact p{
+    font-size: 1.2rem;
+    margin: 15px 0;
+}
+
+/* Links */
+
+.contact a{
+    color: #ea580c;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.3s ease;
+}
+
+.contact a:hover{
+    color: white;
+    text-shadow: 0 0 10px #ea580c;
+}
